@@ -452,9 +452,8 @@ Potential future improvements include:
 
 ## 👩‍💻 Contributors
 
-Developed as an academic DBMS project by a team of four.
-
-**Team:** Library Book Demand & Recommendation Management System
+Vankadara Sri Kruthi
+Valmiki Uma
 
 ---
 
